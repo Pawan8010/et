@@ -1,0 +1,6126 @@
+{
+  "nodes": [
+    {
+      "id": "doc:3481ba5b-abb7-40f3-95c6-b23d61ee396d",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-BLR-102-VESSEL.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:BLR-102",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "BLR-102",
+        "equipment_type": "boiler"
+      }
+    },
+    {
+      "id": "proc:SOP-BLR-102-VESSEL-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-BLR-102-VESSEL-"
+      }
+    },
+    {
+      "id": "reg:PESO Static and Mobile Pressure Vessel Rules governs pressur",
+      "attrs": {
+        "entity_type": "RegulatoryRequirement",
+        "canonical_name": "PESO Static and Mobile Pressure Vessel Rules governs pressur"
+      }
+    },
+    {
+      "id": "doc:5ae69d7e-ad30-4924-8abc-4540c4e2a3bb",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-BLR-103-VESSEL.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:BLR-103",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "BLR-103",
+        "equipment_type": "boiler"
+      }
+    },
+    {
+      "id": "proc:SOP-BLR-103-VESSEL-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-BLR-103-VESSEL-"
+      }
+    },
+    {
+      "id": "reg:OISD-STD-105",
+      "attrs": {
+        "entity_type": "RegulatoryRequirement",
+        "canonical_name": "OISD-STD-105"
+      }
+    },
+    {
+      "id": "doc:e6563617-bb19-4cc1-8ff9-7f46dbcdbaa7",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-BLR-105-VESSEL.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:BLR-105",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "BLR-105",
+        "equipment_type": "boiler"
+      }
+    },
+    {
+      "id": "proc:SOP-BLR-105-VESSEL-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-BLR-105-VESSEL-"
+      }
+    },
+    {
+      "id": "doc:b1d2e06e-5b4e-456e-b055-61771e300d4b",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-BLR-106-VESSEL.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:BLR-106",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "BLR-106",
+        "equipment_type": "boiler"
+      }
+    },
+    {
+      "id": "proc:SOP-BLR-106-VESSEL-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-BLR-106-VESSEL-"
+      }
+    },
+    {
+      "id": "doc:5b807b1e-71dc-4744-b8c0-63277afede53",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-CMP-103-ROTATING.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:CMP-103",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "CMP-103",
+        "equipment_type": "compressor"
+      }
+    },
+    {
+      "id": "proc:SOP-CMP-103-MNT-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-CMP-103-MNT-"
+      }
+    },
+    {
+      "id": "proc:LOTO-GEN-001",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "LOTO-GEN-001"
+      }
+    },
+    {
+      "id": "doc:4028205f-baeb-44c1-b0bc-d2ee662cbd85",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-CMP-104-ROTATING.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:CMP-104",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "CMP-104",
+        "equipment_type": "compressor"
+      }
+    },
+    {
+      "id": "proc:SOP-CMP-104-MNT-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-CMP-104-MNT-"
+      }
+    },
+    {
+      "id": "reg:OISD-STD-118",
+      "attrs": {
+        "entity_type": "RegulatoryRequirement",
+        "canonical_name": "OISD-STD-118"
+      }
+    },
+    {
+      "id": "doc:f1e9b52c-8885-4602-b300-7385e08293d2",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-CMP302-Operation.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:CMP-302",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "CMP-302",
+        "equipment_type": "compressor"
+      }
+    },
+    {
+      "id": "proc:SOP-CMP-302-OPS-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-CMP-302-OPS-"
+      }
+    },
+    {
+      "id": "equip:TNK-07",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "TNK-07",
+        "equipment_type": "tank_vessel"
+      }
+    },
+    {
+      "id": "reg:PESO pressure vessel rules\napplicable to TNK-07 as a connect",
+      "attrs": {
+        "entity_type": "RegulatoryRequirement",
+        "canonical_name": "PESO pressure vessel rules\napplicable to TNK-07 as a connect"
+      }
+    },
+    {
+      "id": "doc:58c77ed0-308e-44d9-957d-dd3d242b0112",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-GEN-102-ROTATING.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:GEN-102",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "GEN-102",
+        "equipment_type": "standby_generator"
+      }
+    },
+    {
+      "id": "proc:SOP-GEN-102-MNT-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-GEN-102-MNT-"
+      }
+    },
+    {
+      "id": "doc:80fbce87-0944-4f83-8c9a-03d64d14f446",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-GEN-104-ROTATING.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:GEN-104",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "GEN-104",
+        "equipment_type": "standby_generator"
+      }
+    },
+    {
+      "id": "proc:SOP-GEN-104-MNT-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-GEN-104-MNT-"
+      }
+    },
+    {
+      "id": "reg:PESO Static and Mobile Pressure Vessel Rules",
+      "attrs": {
+        "entity_type": "RegulatoryRequirement",
+        "canonical_name": "PESO Static and Mobile Pressure Vessel Rules"
+      }
+    },
+    {
+      "id": "doc:818bb19d-2614-470a-808e-fcb59e96df59",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-HTX-103-HEAT_EXCHANGER.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:HTX-103",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "HTX-103",
+        "equipment_type": "heat_exchanger"
+      }
+    },
+    {
+      "id": "proc:SOP-HTX-103-HTX-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-HTX-103-HTX-"
+      }
+    },
+    {
+      "id": "reg:Factory Act Section 87 applies to this connected pressure eq",
+      "attrs": {
+        "entity_type": "RegulatoryRequirement",
+        "canonical_name": "Factory Act Section 87 applies to this connected pressure eq"
+      }
+    },
+    {
+      "id": "doc:1e851e82-6846-4a19-8932-50fc7a272b39",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-HTX-105-HEAT_EXCHANGER.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:HTX-105",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "HTX-105",
+        "equipment_type": "heat_exchanger"
+      }
+    },
+    {
+      "id": "proc:SOP-HTX-105-HTX-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-HTX-105-HTX-"
+      }
+    },
+    {
+      "id": "reg:PESO Static and Mobile Pressure Vessel Rules applies to this",
+      "attrs": {
+        "entity_type": "RegulatoryRequirement",
+        "canonical_name": "PESO Static and Mobile Pressure Vessel Rules applies to this"
+      }
+    },
+    {
+      "id": "doc:f676ca29-de3c-42af-81b3-e9f6ba4fc180",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-HTX-108-HEAT_EXCHANGER.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:HTX-108",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "HTX-108",
+        "equipment_type": "heat_exchanger"
+      }
+    },
+    {
+      "id": "proc:SOP-HTX-108-HTX-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-HTX-108-HTX-"
+      }
+    },
+    {
+      "id": "doc:6713c56b-2560-4ec9-ade2-22247b64a098",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-HTX-111-HEAT_EXCHANGER.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:HTX-111",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "HTX-111",
+        "equipment_type": "heat_exchanger"
+      }
+    },
+    {
+      "id": "proc:SOP-HTX-111-HTX-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-HTX-111-HTX-"
+      }
+    },
+    {
+      "id": "doc:ff5cc2d3-4bde-461c-8a3b-ab72a6560f73",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-HTX-112-HEAT_EXCHANGER.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:HTX-112",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "HTX-112",
+        "equipment_type": "heat_exchanger"
+      }
+    },
+    {
+      "id": "proc:SOP-HTX-112-HTX-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-HTX-112-HTX-"
+      }
+    },
+    {
+      "id": "doc:d2ad9ed1-1e3b-495f-beee-753fabb4a60a",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-HTX-114-HEAT_EXCHANGER.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:HTX-114",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "HTX-114",
+        "equipment_type": "heat_exchanger"
+      }
+    },
+    {
+      "id": "proc:SOP-HTX-114-HTX-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-HTX-114-HTX-"
+      }
+    },
+    {
+      "id": "doc:ad1cc227-7517-44f1-abab-f3374ce88a27",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-LOTO-GEN001.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:PMP-101",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "PMP-101",
+        "equipment_type": "centrifugal_pump"
+      }
+    },
+    {
+      "id": "reg:Factory Act Section 87, OISD-STD-105 (Isolation and lockout ",
+      "attrs": {
+        "entity_type": "RegulatoryRequirement",
+        "canonical_name": "Factory Act Section 87, OISD-STD-105 (Isolation and lockout "
+      }
+    },
+    {
+      "id": "doc:f3b2c58c-c758-4455-91fd-2892ff26f242",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-PMP-104-ROTATING.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:PMP-104",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "PMP-104",
+        "equipment_type": "centrifugal_pump"
+      }
+    },
+    {
+      "id": "proc:SOP-PMP-104-MNT-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-PMP-104-MNT-"
+      }
+    },
+    {
+      "id": "doc:a7663bd1-c74a-443c-b874-d7b21dfb2621",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-PMP-105-ROTATING.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:PMP-105",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "PMP-105",
+        "equipment_type": "centrifugal_pump"
+      }
+    },
+    {
+      "id": "proc:SOP-PMP-105-MNT-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-PMP-105-MNT-"
+      }
+    },
+    {
+      "id": "doc:f784a21a-9e16-465e-bd7b-78382d5e1c69",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-PMP101-Maintenance.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "proc:SOP-PMP-101-MNT-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-PMP-101-MNT-"
+      }
+    },
+    {
+      "id": "equip:VLV-204",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "VLV-204",
+        "equipment_type": "valve"
+      }
+    },
+    {
+      "id": "reg:Factory Act Section 87 (maintenance of machinery)",
+      "attrs": {
+        "entity_type": "RegulatoryRequirement",
+        "canonical_name": "Factory Act Section 87 (maintenance of machinery)"
+      }
+    },
+    {
+      "id": "doc:5f547afe-6ea3-4d65-b866-c5bed47223e1",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-TNK-103-VESSEL.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:TNK-103",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "TNK-103",
+        "equipment_type": "tank_vessel"
+      }
+    },
+    {
+      "id": "proc:SOP-TNK-103-VESSEL-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-TNK-103-VESSEL-"
+      }
+    },
+    {
+      "id": "reg:Factory Act Section 87 governs pressure vessel integrity req",
+      "attrs": {
+        "entity_type": "RegulatoryRequirement",
+        "canonical_name": "Factory Act Section 87 governs pressure vessel integrity req"
+      }
+    },
+    {
+      "id": "doc:c977d11c-6d42-42cc-a9ac-7ce6429d527e",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-TNK-104-VESSEL.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:TNK-104",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "TNK-104",
+        "equipment_type": "tank_vessel"
+      }
+    },
+    {
+      "id": "proc:SOP-TNK-104-VESSEL-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-TNK-104-VESSEL-"
+      }
+    },
+    {
+      "id": "doc:3f0b8892-9561-4725-bf20-59e922d652c8",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-VLV-101-VALVE.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:VLV-101",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "VLV-101",
+        "equipment_type": "valve"
+      }
+    },
+    {
+      "id": "proc:SOP-VLV-101-INSP-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-VLV-101-INSP-"
+      }
+    },
+    {
+      "id": "doc:d161e99a-c899-40d1-a0c5-98bbff13a839",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-VLV-102-VALVE.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:VLV-102",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "VLV-102",
+        "equipment_type": "valve"
+      }
+    },
+    {
+      "id": "proc:SOP-VLV-102-INSP-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-VLV-102-INSP-"
+      }
+    },
+    {
+      "id": "reg:PESO Static and Mobile Pressure Vessel Rules applies to isol",
+      "attrs": {
+        "entity_type": "RegulatoryRequirement",
+        "canonical_name": "PESO Static and Mobile Pressure Vessel Rules applies to isol"
+      }
+    },
+    {
+      "id": "doc:604f0401-739c-4010-b40f-1c28fcaf213e",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-VLV-105-VALVE.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:VLV-105",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "VLV-105",
+        "equipment_type": "valve"
+      }
+    },
+    {
+      "id": "proc:SOP-VLV-105-INSP-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-VLV-105-INSP-"
+      }
+    },
+    {
+      "id": "doc:27acd829-f01f-4c2d-87ff-05bbfd6efe3a",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-VLV-106-VALVE.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:VLV-106",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "VLV-106",
+        "equipment_type": "valve"
+      }
+    },
+    {
+      "id": "proc:SOP-VLV-106-INSP-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-VLV-106-INSP-"
+      }
+    },
+    {
+      "id": "doc:e403f8ee-01fe-43dd-a17a-c2b4918afce3",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-VLV-109-VALVE.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:VLV-109",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "VLV-109",
+        "equipment_type": "valve"
+      }
+    },
+    {
+      "id": "proc:SOP-VLV-109-INSP-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-VLV-109-INSP-"
+      }
+    },
+    {
+      "id": "doc:5080e463-2bb0-4b00-92a6-21ef66f1e9ff",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-VLV-110-VALVE.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "equip:VLV-110",
+      "attrs": {
+        "entity_type": "Equipment",
+        "canonical_name": "VLV-110",
+        "equipment_type": "valve"
+      }
+    },
+    {
+      "id": "proc:SOP-VLV-110-INSP-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-VLV-110-INSP-"
+      }
+    },
+    {
+      "id": "reg:Factory Act Section 87 applies to isolation valve integrity ",
+      "attrs": {
+        "entity_type": "RegulatoryRequirement",
+        "canonical_name": "Factory Act Section 87 applies to isolation valve integrity "
+      }
+    },
+    {
+      "id": "doc:8e3522f3-9812-4109-8fd6-1892a183462b",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "SOP-VLV204-Inspection.txt",
+        "doc_type": "sop"
+      }
+    },
+    {
+      "id": "proc:SOP-VLV-204-INSP-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-VLV-204-INSP-"
+      }
+    },
+    {
+      "id": "reg:PESO regulations for isolation valve integrity in process pi",
+      "attrs": {
+        "entity_type": "RegulatoryRequirement",
+        "canonical_name": "PESO regulations for isolation valve integrity in process pi"
+      }
+    },
+    {
+      "id": "doc:f6f4c85e-e4d7-47f5-b7d3-6eb61b550792",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-2025-12-CMP302.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "docref:INSP-2025-12-05-002",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-2025-12-05-002"
+      }
+    },
+    {
+      "id": "doc:93e345e8-cc9a-43a9-9aba-1b7afca2ae75",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-2026-01-VLV204.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "docref:INSP-2026-01-20-004",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-2026-01-20-004"
+      }
+    },
+    {
+      "id": "doc:bfc1abb1-30c7-4db1-9c5b-84085852b912",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-2026-03-PMP101.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "docref:INSP-2026-03-14-001",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-2026-03-14-001"
+      }
+    },
+    {
+      "id": "doc:fcc67606-b631-4a3a-be95-398734679820",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-BLR-102-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:718a6b24-4f7d-4894-9f23-a4acf789ec6e",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-BLR-102-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:49a21f9d-fd6c-475b-a9fe-cc22e1e23e05",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-BLR-102-003.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:afaaf316-590e-4770-bfd0-04147bae378e",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-BLR-103-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:36a8cc24-fe29-4b93-b5f2-489df1bbed02",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-BLR-103-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:e4a35d62-a0af-44be-9196-222bec9a86b0",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-BLR-103-003.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:d307723e-6ff5-4a02-9e92-fbbe8249eb17",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-BLR-105-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:e39e3ce0-a8e7-4ebf-bd49-e4c8d9d05dc6",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-BLR-105-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:c1a80868-86a9-4853-96a9-98b9a272050b",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-BLR-106-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:c1e12a4e-fbbe-4744-a1c0-90cca6a0497f",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-BLR-106-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:060648a7-057b-4718-bb93-b6a2882e4d1a",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-BLR-106-003.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:26d5bd62-fab5-43b0-8b4c-fa0b40ec3bf3",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-CMP-103-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:0dfb5984-102f-4fa5-884d-cd61f56748e0",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-CMP-103-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:6ff733a3-9c3d-4d7b-acff-7ba31e631e76",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-CMP-104-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:edc1b72c-3967-4cc6-987a-7fdba7f639f1",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-CMP-104-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:aaa54450-4772-451c-ac7e-d67df806bcd1",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-CMP-104-003.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:6ea34ecb-b7e0-48b3-abc8-4fbca4f46e1b",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-GEN-102-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:cc25896e-1c4e-497b-80c1-50b757cea7d7",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-GEN-102-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:8b3d4e9e-c7a1-4df6-bbec-9f427c840d8a",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-GEN-104-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:a831c700-1537-491f-a00b-366691e581a3",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-GEN-104-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:f36adff6-3125-4ed6-931b-8365dfc9405f",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-HTX-103-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:ae83a6b0-ba70-4c80-80ac-f301e35b2253",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-HTX-103-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:7f6b50ed-e62e-44ab-bf10-e99abe12670d",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-HTX-105-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:a5ccf24b-f278-46d3-b340-4b7cd5d9dd04",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-HTX-105-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:0e86f4e7-28c5-45c6-9d75-bf2a5905edd0",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-HTX-105-003.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:64cfabdb-70c0-444e-8ffb-920d40c27bb8",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-HTX-108-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:f945ffb3-a254-4dd8-a37d-5fd3c6c8ead0",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-HTX-108-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:f64bb387-1f6b-4eea-97d2-245d27ee6ea3",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-HTX-108-003.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:e5415177-4620-490a-9406-dec498696e5e",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-HTX-111-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:24480714-bc9d-4c97-981f-4b34a7883673",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-HTX-111-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:05e94a0c-cf71-46a3-845b-97fb8d3b309f",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-HTX-112-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:048a7b81-845f-4bd0-a59f-66c4733ebf48",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-HTX-112-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:c66d98ef-6480-49c8-996f-17b1dfa8de79",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-HTX-112-003.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:88029b2c-ff6a-446e-89b9-0d1ae4b07ec2",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-HTX-114-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:3e533a33-45b2-4f85-94d4-dccd80038c36",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-HTX-114-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:6a28faf2-2e6e-42c3-bc44-02eb4f070a5e",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-HTX-114-003.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:52bd3ed6-6ee5-46a4-80ef-8f87831671c9",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-PMP-104-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:8cbe1310-0fb2-44b2-96ac-c2a03f11293a",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-PMP-104-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:3095d931-673d-4132-a8f3-301ec5e47a83",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-PMP-105-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:a9bb374d-aa5a-47ce-a6c3-6a03af74b7a6",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-PMP-105-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:58e4d794-e98b-47ec-aa92-16ac74d7d1ae",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-TNK-103-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:110139ba-ca93-4e11-b245-16a4d0140767",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-TNK-103-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:a471bd70-b0b7-49d7-a7c8-1a02ffd3c671",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-TNK-103-003.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:fc07e77d-a675-4c75-8e43-c2d4528b2bcf",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-TNK-104-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:e8258941-8262-490c-b036-4e45068eb3da",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-TNK-104-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:7133c64b-df4a-415c-8f62-bc44dfce3404",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-VLV-101-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:f6be8340-0ed1-40ca-bcd0-7fc9684157a4",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-VLV-101-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:66ba51ad-6ea0-4f92-bde5-5610d0c58a8d",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-VLV-101-003.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:685f64c4-d113-48ae-a9ab-929e34e4e0bf",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-VLV-102-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:13072489-c2e5-406b-ad1d-cc996f5db66a",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-VLV-102-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:6254ced3-c5fe-48e9-83a4-f12deea60087",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-VLV-102-003.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:15c6d2b7-ffac-4131-8836-70df9906a4aa",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-VLV-105-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:817db6c2-e49a-4585-b721-2c0e37d127d2",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-VLV-105-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:8bf6257c-b51a-4142-ab29-cdfeacfd0f02",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-VLV-105-003.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:76e42996-08ef-491a-a91b-45b7cad938c3",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-VLV-106-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:f7fea874-cb81-4741-b919-c59b59b79165",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-VLV-106-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:e42a2dcf-5c6f-4888-b0a9-592f63b2bf81",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-VLV-109-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:3ff108b5-514a-4631-b705-a09ac855148f",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-VLV-109-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:80f16350-bbde-4156-acb2-61209f7f8ea6",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-VLV-110-001.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:a4e4eb05-db21-4037-a2d4-a697f8ca7420",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-VLV-110-002.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:dc72bec2-b1df-4d80-9ab8-d2ad449fff33",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INSP-VLV-110-003.txt",
+        "doc_type": "inspection_report"
+      }
+    },
+    {
+      "id": "doc:546bccdb-b4ab-466c-9767-70447537a609",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "INCIDENT-2025-11-NEARMISS.txt",
+        "doc_type": "incident"
+      }
+    },
+    {
+      "id": "docref:NM-2025-11-08-003",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "NM-2025-11-08-003"
+      }
+    },
+    {
+      "id": "doc:9efdcf38-64a6-42a7-8d88-8ba3686b42a5",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "NM-HTX-103.txt",
+        "doc_type": "incident"
+      }
+    },
+    {
+      "id": "doc:c9f93fee-7080-414b-8c33-091a75b7cf4c",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "NM-HTX-111.txt",
+        "doc_type": "incident"
+      }
+    },
+    {
+      "id": "doc:420b9e42-d912-4f90-bb67-dfee5c0be49e",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "NM-VLV-105.txt",
+        "doc_type": "incident"
+      }
+    },
+    {
+      "id": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "work_orders.xlsx",
+        "doc_type": "work_order"
+      }
+    },
+    {
+      "id": "docref:WO-2026-0142",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-0142"
+      }
+    },
+    {
+      "id": "docref:WO-2026-0198",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-0198"
+      }
+    },
+    {
+      "id": "docref:WO-2026-0233",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-0233"
+      }
+    },
+    {
+      "id": "docref:WO-2026-0301",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-0301"
+      }
+    },
+    {
+      "id": "docref:WO-2026-0312",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-0312"
+      }
+    },
+    {
+      "id": "docref:WO-2025-1187",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2025-1187"
+      }
+    },
+    {
+      "id": "docref:WO-2025-1201",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2025-1201"
+      }
+    },
+    {
+      "id": "docref:WO-2026-0089",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-0089"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3001",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3001"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3002",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3002"
+      }
+    },
+    {
+      "id": "proc:SOP-PMP-104-ROTATING",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-PMP-104-ROTATING"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3003",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3003"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3004",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3004"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3005",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3005"
+      }
+    },
+    {
+      "id": "proc:SOP-CMP-103-ROTATING",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-CMP-103-ROTATING"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3006",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3006"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3007",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3007"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3008",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3008"
+      }
+    },
+    {
+      "id": "proc:SOP-GEN-102-ROTATING",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-GEN-102-ROTATING"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3009",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3009"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3010",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3010"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3011",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3011"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3012",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3012"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3013",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3013"
+      }
+    },
+    {
+      "id": "proc:SOP-CMP-104-ROTATING",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-CMP-104-ROTATING"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3014",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3014"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3015",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3015"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3016",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3016"
+      }
+    },
+    {
+      "id": "proc:SOP-GEN-104-ROTATING",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-GEN-104-ROTATING"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3017",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3017"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3018",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3018"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3019",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3019"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3020",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3020"
+      }
+    },
+    {
+      "id": "proc:SOP-PMP-105-ROTATING",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-PMP-105-ROTATING"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3021",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3021"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3022",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3022"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3023",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3023"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3024",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3024"
+      }
+    },
+    {
+      "id": "proc:SOP-VLV-101-VALVE",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-VLV-101-VALVE"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3025",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3025"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3026",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3026"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3027",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3027"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3028",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3028"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3029",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3029"
+      }
+    },
+    {
+      "id": "proc:SOP-VLV-102-VALVE",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-VLV-102-VALVE"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3030",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3030"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3031",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3031"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3032",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3032"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3033",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3033"
+      }
+    },
+    {
+      "id": "proc:SOP-VLV-105-VALVE",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-VLV-105-VALVE"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3034",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3034"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3035",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3035"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3036",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3036"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3037",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3037"
+      }
+    },
+    {
+      "id": "proc:SOP-VLV-106-VALVE",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-VLV-106-VALVE"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3038",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3038"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3039",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3039"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3040",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3040"
+      }
+    },
+    {
+      "id": "proc:SOP-VLV-109-VALVE",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-VLV-109-VALVE"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3041",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3041"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3042",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3042"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3043",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3043"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3044",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3044"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3045",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3045"
+      }
+    },
+    {
+      "id": "proc:SOP-VLV-110-VALVE",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-VLV-110-VALVE"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3046",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3046"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3047",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3047"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3048",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3048"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3049",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3049"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3050",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3050"
+      }
+    },
+    {
+      "id": "proc:SOP-BLR-102-VESSEL",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-BLR-102-VESSEL"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3051",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3051"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3052",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3052"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3053",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3053"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3054",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3054"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3055",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3055"
+      }
+    },
+    {
+      "id": "proc:SOP-BLR-103-VESSEL",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-BLR-103-VESSEL"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3056",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3056"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3057",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3057"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3058",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3058"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3059",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3059"
+      }
+    },
+    {
+      "id": "proc:SOP-TNK-103-VESSEL",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-TNK-103-VESSEL"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3060",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3060"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3061",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3061"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3062",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3062"
+      }
+    },
+    {
+      "id": "proc:SOP-BLR-105-VESSEL",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-BLR-105-VESSEL"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3063",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3063"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3064",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3064"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3065",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3065"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3066",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3066"
+      }
+    },
+    {
+      "id": "proc:SOP-TNK-104-VESSEL",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-TNK-104-VESSEL"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3067",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3067"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3068",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3068"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3069",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3069"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3070",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3070"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3071",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3071"
+      }
+    },
+    {
+      "id": "proc:SOP-BLR-106-VESSEL",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-BLR-106-VESSEL"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3072",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3072"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3073",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3073"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3074",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3074"
+      }
+    },
+    {
+      "id": "proc:SOP-HTX-103-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-HTX-103-"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3075",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3075"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3076",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3076"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3077",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3077"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3078",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3078"
+      }
+    },
+    {
+      "id": "proc:SOP-HTX-105-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-HTX-105-"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3079",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3079"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3080",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3080"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3081",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3081"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3082",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3082"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3083",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3083"
+      }
+    },
+    {
+      "id": "proc:SOP-HTX-108-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-HTX-108-"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3084",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3084"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3085",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3085"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3086",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3086"
+      }
+    },
+    {
+      "id": "proc:SOP-HTX-111-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-HTX-111-"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3087",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3087"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3088",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3088"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3089",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3089"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3090",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3090"
+      }
+    },
+    {
+      "id": "proc:SOP-HTX-112-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-HTX-112-"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3091",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3091"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3092",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3092"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3093",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3093"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3094",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3094"
+      }
+    },
+    {
+      "id": "proc:SOP-HTX-114-",
+      "attrs": {
+        "entity_type": "Procedure",
+        "canonical_name": "SOP-HTX-114-"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3095",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3095"
+      }
+    },
+    {
+      "id": "docref:WO-2026-3096",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "WO-2026-3096"
+      }
+    },
+    {
+      "id": "doc:d4aa2c58-23ac-4f9c-aa3f-215bf314076d",
+      "attrs": {
+        "entity_type": "Document",
+        "canonical_name": "Pawan_Rajput_Cisco.pdf",
+        "doc_type": "incident"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc:3481ba5b-abb7-40f3-95c6-b23d61ee396d",
+      "target": "equip:BLR-102",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:3481ba5b-abb7-40f3-95c6-b23d61ee396d",
+      "target": "equip:BLR-102",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:3481ba5b-abb7-40f3-95c6-b23d61ee396d",
+      "target": "proc:SOP-BLR-102-VESSEL-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:3481ba5b-abb7-40f3-95c6-b23d61ee396d",
+      "target": "reg:PESO Static and Mobile Pressure Vessel Rules governs pressur",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "equip:BLR-102",
+      "target": "reg:PESO Static and Mobile Pressure Vessel Rules governs pressur",
+      "rel_type": "REQUIRES_COMPLIANCE_WITH",
+      "attrs": {
+        "rel_type": "REQUIRES_COMPLIANCE_WITH"
+      }
+    },
+    {
+      "source": "doc:5ae69d7e-ad30-4924-8abc-4540c4e2a3bb",
+      "target": "equip:BLR-103",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:5ae69d7e-ad30-4924-8abc-4540c4e2a3bb",
+      "target": "equip:BLR-103",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:5ae69d7e-ad30-4924-8abc-4540c4e2a3bb",
+      "target": "proc:SOP-BLR-103-VESSEL-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:5ae69d7e-ad30-4924-8abc-4540c4e2a3bb",
+      "target": "reg:OISD-STD-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "equip:BLR-103",
+      "target": "reg:OISD-STD-105",
+      "rel_type": "REQUIRES_COMPLIANCE_WITH",
+      "attrs": {
+        "rel_type": "REQUIRES_COMPLIANCE_WITH"
+      }
+    },
+    {
+      "source": "doc:e6563617-bb19-4cc1-8ff9-7f46dbcdbaa7",
+      "target": "equip:BLR-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:e6563617-bb19-4cc1-8ff9-7f46dbcdbaa7",
+      "target": "equip:BLR-105",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:e6563617-bb19-4cc1-8ff9-7f46dbcdbaa7",
+      "target": "proc:SOP-BLR-105-VESSEL-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:e6563617-bb19-4cc1-8ff9-7f46dbcdbaa7",
+      "target": "reg:PESO Static and Mobile Pressure Vessel Rules governs pressur",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "equip:BLR-105",
+      "target": "reg:PESO Static and Mobile Pressure Vessel Rules governs pressur",
+      "rel_type": "REQUIRES_COMPLIANCE_WITH",
+      "attrs": {
+        "rel_type": "REQUIRES_COMPLIANCE_WITH"
+      }
+    },
+    {
+      "source": "doc:b1d2e06e-5b4e-456e-b055-61771e300d4b",
+      "target": "equip:BLR-106",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:b1d2e06e-5b4e-456e-b055-61771e300d4b",
+      "target": "equip:BLR-106",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:b1d2e06e-5b4e-456e-b055-61771e300d4b",
+      "target": "proc:SOP-BLR-106-VESSEL-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:b1d2e06e-5b4e-456e-b055-61771e300d4b",
+      "target": "reg:PESO Static and Mobile Pressure Vessel Rules governs pressur",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "equip:BLR-106",
+      "target": "reg:PESO Static and Mobile Pressure Vessel Rules governs pressur",
+      "rel_type": "REQUIRES_COMPLIANCE_WITH",
+      "attrs": {
+        "rel_type": "REQUIRES_COMPLIANCE_WITH"
+      }
+    },
+    {
+      "source": "doc:5b807b1e-71dc-4744-b8c0-63277afede53",
+      "target": "equip:CMP-103",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:5b807b1e-71dc-4744-b8c0-63277afede53",
+      "target": "equip:CMP-103",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:5b807b1e-71dc-4744-b8c0-63277afede53",
+      "target": "proc:SOP-CMP-103-MNT-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:5b807b1e-71dc-4744-b8c0-63277afede53",
+      "target": "proc:LOTO-GEN-001",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:5b807b1e-71dc-4744-b8c0-63277afede53",
+      "target": "reg:OISD-STD-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "equip:CMP-103",
+      "target": "reg:OISD-STD-105",
+      "rel_type": "REQUIRES_COMPLIANCE_WITH",
+      "attrs": {
+        "rel_type": "REQUIRES_COMPLIANCE_WITH"
+      }
+    },
+    {
+      "source": "doc:4028205f-baeb-44c1-b0bc-d2ee662cbd85",
+      "target": "equip:CMP-104",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:4028205f-baeb-44c1-b0bc-d2ee662cbd85",
+      "target": "equip:CMP-104",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:4028205f-baeb-44c1-b0bc-d2ee662cbd85",
+      "target": "proc:SOP-CMP-104-MNT-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:4028205f-baeb-44c1-b0bc-d2ee662cbd85",
+      "target": "proc:LOTO-GEN-001",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:4028205f-baeb-44c1-b0bc-d2ee662cbd85",
+      "target": "reg:OISD-STD-118",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "equip:CMP-104",
+      "target": "reg:OISD-STD-118",
+      "rel_type": "REQUIRES_COMPLIANCE_WITH",
+      "attrs": {
+        "rel_type": "REQUIRES_COMPLIANCE_WITH"
+      }
+    },
+    {
+      "source": "doc:f1e9b52c-8885-4602-b300-7385e08293d2",
+      "target": "equip:CMP-302",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:f1e9b52c-8885-4602-b300-7385e08293d2",
+      "target": "equip:CMP-302",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:f1e9b52c-8885-4602-b300-7385e08293d2",
+      "target": "proc:SOP-CMP-302-OPS-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:f1e9b52c-8885-4602-b300-7385e08293d2",
+      "target": "equip:TNK-07",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 3
+      }
+    },
+    {
+      "source": "doc:f1e9b52c-8885-4602-b300-7385e08293d2",
+      "target": "equip:TNK-07",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:f1e9b52c-8885-4602-b300-7385e08293d2",
+      "target": "reg:OISD-STD-118",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:f1e9b52c-8885-4602-b300-7385e08293d2",
+      "target": "reg:PESO pressure vessel rules\napplicable to TNK-07 as a connect",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "equip:TNK-07",
+      "target": "reg:OISD-STD-118",
+      "rel_type": "REQUIRES_COMPLIANCE_WITH",
+      "attrs": {
+        "rel_type": "REQUIRES_COMPLIANCE_WITH"
+      }
+    },
+    {
+      "source": "equip:TNK-07",
+      "target": "reg:PESO pressure vessel rules\napplicable to TNK-07 as a connect",
+      "rel_type": "REQUIRES_COMPLIANCE_WITH",
+      "attrs": {
+        "rel_type": "REQUIRES_COMPLIANCE_WITH"
+      }
+    },
+    {
+      "source": "doc:58c77ed0-308e-44d9-957d-dd3d242b0112",
+      "target": "equip:GEN-102",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:58c77ed0-308e-44d9-957d-dd3d242b0112",
+      "target": "equip:GEN-102",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:58c77ed0-308e-44d9-957d-dd3d242b0112",
+      "target": "proc:SOP-GEN-102-MNT-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:58c77ed0-308e-44d9-957d-dd3d242b0112",
+      "target": "proc:LOTO-GEN-001",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:58c77ed0-308e-44d9-957d-dd3d242b0112",
+      "target": "reg:OISD-STD-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "equip:GEN-102",
+      "target": "reg:OISD-STD-105",
+      "rel_type": "REQUIRES_COMPLIANCE_WITH",
+      "attrs": {
+        "rel_type": "REQUIRES_COMPLIANCE_WITH"
+      }
+    },
+    {
+      "source": "doc:80fbce87-0944-4f83-8c9a-03d64d14f446",
+      "target": "equip:GEN-104",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:80fbce87-0944-4f83-8c9a-03d64d14f446",
+      "target": "equip:GEN-104",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:80fbce87-0944-4f83-8c9a-03d64d14f446",
+      "target": "proc:SOP-GEN-104-MNT-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:80fbce87-0944-4f83-8c9a-03d64d14f446",
+      "target": "proc:LOTO-GEN-001",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:80fbce87-0944-4f83-8c9a-03d64d14f446",
+      "target": "reg:PESO Static and Mobile Pressure Vessel Rules",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:818bb19d-2614-470a-808e-fcb59e96df59",
+      "target": "equip:HTX-103",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:818bb19d-2614-470a-808e-fcb59e96df59",
+      "target": "equip:HTX-103",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:818bb19d-2614-470a-808e-fcb59e96df59",
+      "target": "proc:SOP-HTX-103-HTX-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:818bb19d-2614-470a-808e-fcb59e96df59",
+      "target": "reg:Factory Act Section 87 applies to this connected pressure eq",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:1e851e82-6846-4a19-8932-50fc7a272b39",
+      "target": "equip:HTX-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:1e851e82-6846-4a19-8932-50fc7a272b39",
+      "target": "equip:HTX-105",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:1e851e82-6846-4a19-8932-50fc7a272b39",
+      "target": "proc:SOP-HTX-105-HTX-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:1e851e82-6846-4a19-8932-50fc7a272b39",
+      "target": "reg:PESO Static and Mobile Pressure Vessel Rules applies to this",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:f676ca29-de3c-42af-81b3-e9f6ba4fc180",
+      "target": "equip:HTX-108",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:f676ca29-de3c-42af-81b3-e9f6ba4fc180",
+      "target": "equip:HTX-108",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:f676ca29-de3c-42af-81b3-e9f6ba4fc180",
+      "target": "proc:SOP-HTX-108-HTX-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:f676ca29-de3c-42af-81b3-e9f6ba4fc180",
+      "target": "reg:OISD-STD-118",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:6713c56b-2560-4ec9-ade2-22247b64a098",
+      "target": "equip:HTX-111",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:6713c56b-2560-4ec9-ade2-22247b64a098",
+      "target": "equip:HTX-111",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:6713c56b-2560-4ec9-ade2-22247b64a098",
+      "target": "proc:SOP-HTX-111-HTX-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:6713c56b-2560-4ec9-ade2-22247b64a098",
+      "target": "reg:OISD-STD-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:ff5cc2d3-4bde-461c-8a3b-ab72a6560f73",
+      "target": "equip:HTX-112",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:ff5cc2d3-4bde-461c-8a3b-ab72a6560f73",
+      "target": "equip:HTX-112",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:ff5cc2d3-4bde-461c-8a3b-ab72a6560f73",
+      "target": "proc:SOP-HTX-112-HTX-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:ff5cc2d3-4bde-461c-8a3b-ab72a6560f73",
+      "target": "reg:Factory Act Section 87 applies to this connected pressure eq",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:d2ad9ed1-1e3b-495f-beee-753fabb4a60a",
+      "target": "equip:HTX-114",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:d2ad9ed1-1e3b-495f-beee-753fabb4a60a",
+      "target": "equip:HTX-114",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:d2ad9ed1-1e3b-495f-beee-753fabb4a60a",
+      "target": "proc:SOP-HTX-114-HTX-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:d2ad9ed1-1e3b-495f-beee-753fabb4a60a",
+      "target": "reg:Factory Act Section 87 applies to this connected pressure eq",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:ad1cc227-7517-44f1-abab-f3374ce88a27",
+      "target": "proc:LOTO-GEN-001",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:ad1cc227-7517-44f1-abab-f3374ce88a27",
+      "target": "equip:PMP-101",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 1
+      }
+    },
+    {
+      "source": "doc:ad1cc227-7517-44f1-abab-f3374ce88a27",
+      "target": "equip:PMP-101",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:ad1cc227-7517-44f1-abab-f3374ce88a27",
+      "target": "equip:CMP-302",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 1
+      }
+    },
+    {
+      "source": "doc:ad1cc227-7517-44f1-abab-f3374ce88a27",
+      "target": "equip:CMP-302",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:ad1cc227-7517-44f1-abab-f3374ce88a27",
+      "target": "equip:TNK-07",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 1
+      }
+    },
+    {
+      "source": "doc:ad1cc227-7517-44f1-abab-f3374ce88a27",
+      "target": "equip:TNK-07",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:ad1cc227-7517-44f1-abab-f3374ce88a27",
+      "target": "reg:Factory Act Section 87, OISD-STD-105 (Isolation and lockout ",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:f3b2c58c-c758-4455-91fd-2892ff26f242",
+      "target": "equip:PMP-104",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:f3b2c58c-c758-4455-91fd-2892ff26f242",
+      "target": "equip:PMP-104",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:f3b2c58c-c758-4455-91fd-2892ff26f242",
+      "target": "proc:SOP-PMP-104-MNT-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:f3b2c58c-c758-4455-91fd-2892ff26f242",
+      "target": "proc:LOTO-GEN-001",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:f3b2c58c-c758-4455-91fd-2892ff26f242",
+      "target": "reg:OISD-STD-118",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "equip:PMP-104",
+      "target": "reg:OISD-STD-118",
+      "rel_type": "REQUIRES_COMPLIANCE_WITH",
+      "attrs": {
+        "rel_type": "REQUIRES_COMPLIANCE_WITH"
+      }
+    },
+    {
+      "source": "doc:a7663bd1-c74a-443c-b874-d7b21dfb2621",
+      "target": "equip:PMP-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:a7663bd1-c74a-443c-b874-d7b21dfb2621",
+      "target": "equip:PMP-105",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:a7663bd1-c74a-443c-b874-d7b21dfb2621",
+      "target": "proc:SOP-PMP-105-MNT-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:a7663bd1-c74a-443c-b874-d7b21dfb2621",
+      "target": "proc:LOTO-GEN-001",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:a7663bd1-c74a-443c-b874-d7b21dfb2621",
+      "target": "reg:PESO Static and Mobile Pressure Vessel Rules",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:f784a21a-9e16-465e-bd7b-78382d5e1c69",
+      "target": "equip:PMP-101",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:f784a21a-9e16-465e-bd7b-78382d5e1c69",
+      "target": "equip:PMP-101",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:f784a21a-9e16-465e-bd7b-78382d5e1c69",
+      "target": "proc:SOP-PMP-101-MNT-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:f784a21a-9e16-465e-bd7b-78382d5e1c69",
+      "target": "equip:VLV-204",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 2
+      }
+    },
+    {
+      "source": "doc:f784a21a-9e16-465e-bd7b-78382d5e1c69",
+      "target": "equip:VLV-204",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:f784a21a-9e16-465e-bd7b-78382d5e1c69",
+      "target": "proc:LOTO-GEN-001",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:f784a21a-9e16-465e-bd7b-78382d5e1c69",
+      "target": "reg:OISD-STD-118",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:f784a21a-9e16-465e-bd7b-78382d5e1c69",
+      "target": "reg:Factory Act Section 87 (maintenance of machinery)",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:5f547afe-6ea3-4d65-b866-c5bed47223e1",
+      "target": "equip:TNK-103",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:5f547afe-6ea3-4d65-b866-c5bed47223e1",
+      "target": "equip:TNK-103",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:5f547afe-6ea3-4d65-b866-c5bed47223e1",
+      "target": "proc:SOP-TNK-103-VESSEL-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:5f547afe-6ea3-4d65-b866-c5bed47223e1",
+      "target": "reg:Factory Act Section 87 governs pressure vessel integrity req",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "equip:TNK-103",
+      "target": "reg:Factory Act Section 87 governs pressure vessel integrity req",
+      "rel_type": "REQUIRES_COMPLIANCE_WITH",
+      "attrs": {
+        "rel_type": "REQUIRES_COMPLIANCE_WITH"
+      }
+    },
+    {
+      "source": "doc:c977d11c-6d42-42cc-a9ac-7ce6429d527e",
+      "target": "equip:TNK-104",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:c977d11c-6d42-42cc-a9ac-7ce6429d527e",
+      "target": "equip:TNK-104",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:c977d11c-6d42-42cc-a9ac-7ce6429d527e",
+      "target": "proc:SOP-TNK-104-VESSEL-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:c977d11c-6d42-42cc-a9ac-7ce6429d527e",
+      "target": "reg:Factory Act Section 87 governs pressure vessel integrity req",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "equip:TNK-104",
+      "target": "reg:Factory Act Section 87 governs pressure vessel integrity req",
+      "rel_type": "REQUIRES_COMPLIANCE_WITH",
+      "attrs": {
+        "rel_type": "REQUIRES_COMPLIANCE_WITH"
+      }
+    },
+    {
+      "source": "doc:3f0b8892-9561-4725-bf20-59e922d652c8",
+      "target": "equip:VLV-101",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:3f0b8892-9561-4725-bf20-59e922d652c8",
+      "target": "equip:VLV-101",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:3f0b8892-9561-4725-bf20-59e922d652c8",
+      "target": "proc:SOP-VLV-101-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:3f0b8892-9561-4725-bf20-59e922d652c8",
+      "target": "reg:OISD-STD-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:d161e99a-c899-40d1-a0c5-98bbff13a839",
+      "target": "equip:VLV-102",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:d161e99a-c899-40d1-a0c5-98bbff13a839",
+      "target": "equip:VLV-102",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:d161e99a-c899-40d1-a0c5-98bbff13a839",
+      "target": "proc:SOP-VLV-102-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:d161e99a-c899-40d1-a0c5-98bbff13a839",
+      "target": "reg:PESO Static and Mobile Pressure Vessel Rules applies to isol",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:604f0401-739c-4010-b40f-1c28fcaf213e",
+      "target": "equip:VLV-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:604f0401-739c-4010-b40f-1c28fcaf213e",
+      "target": "equip:VLV-105",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:604f0401-739c-4010-b40f-1c28fcaf213e",
+      "target": "proc:SOP-VLV-105-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:604f0401-739c-4010-b40f-1c28fcaf213e",
+      "target": "reg:OISD-STD-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:27acd829-f01f-4c2d-87ff-05bbfd6efe3a",
+      "target": "equip:VLV-106",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:27acd829-f01f-4c2d-87ff-05bbfd6efe3a",
+      "target": "equip:VLV-106",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:27acd829-f01f-4c2d-87ff-05bbfd6efe3a",
+      "target": "proc:SOP-VLV-106-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:27acd829-f01f-4c2d-87ff-05bbfd6efe3a",
+      "target": "reg:PESO Static and Mobile Pressure Vessel Rules applies to isol",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:e403f8ee-01fe-43dd-a17a-c2b4918afce3",
+      "target": "equip:VLV-109",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:e403f8ee-01fe-43dd-a17a-c2b4918afce3",
+      "target": "equip:VLV-109",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:e403f8ee-01fe-43dd-a17a-c2b4918afce3",
+      "target": "proc:SOP-VLV-109-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:e403f8ee-01fe-43dd-a17a-c2b4918afce3",
+      "target": "reg:OISD-STD-118",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:5080e463-2bb0-4b00-92a6-21ef66f1e9ff",
+      "target": "equip:VLV-110",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:5080e463-2bb0-4b00-92a6-21ef66f1e9ff",
+      "target": "equip:VLV-110",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:5080e463-2bb0-4b00-92a6-21ef66f1e9ff",
+      "target": "proc:SOP-VLV-110-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:5080e463-2bb0-4b00-92a6-21ef66f1e9ff",
+      "target": "reg:Factory Act Section 87 applies to isolation valve integrity ",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:8e3522f3-9812-4109-8fd6-1892a183462b",
+      "target": "equip:VLV-204",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:8e3522f3-9812-4109-8fd6-1892a183462b",
+      "target": "equip:VLV-204",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:8e3522f3-9812-4109-8fd6-1892a183462b",
+      "target": "equip:PMP-101",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:8e3522f3-9812-4109-8fd6-1892a183462b",
+      "target": "equip:PMP-101",
+      "rel_type": "GOVERNS",
+      "attrs": {
+        "rel_type": "GOVERNS"
+      }
+    },
+    {
+      "source": "doc:8e3522f3-9812-4109-8fd6-1892a183462b",
+      "target": "proc:SOP-VLV-204-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:8e3522f3-9812-4109-8fd6-1892a183462b",
+      "target": "reg:PESO regulations for isolation valve integrity in process pi",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:f6f4c85e-e4d7-47f5-b7d3-6eb61b550792",
+      "target": "equip:CMP-302",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:f6f4c85e-e4d7-47f5-b7d3-6eb61b550792",
+      "target": "proc:SOP-CMP-302-OPS-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:f6f4c85e-e4d7-47f5-b7d3-6eb61b550792",
+      "target": "docref:INSP-2025-12-05-002",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:f6f4c85e-e4d7-47f5-b7d3-6eb61b550792",
+      "target": "equip:TNK-07",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 1
+      }
+    },
+    {
+      "source": "doc:93e345e8-cc9a-43a9-9aba-1b7afca2ae75",
+      "target": "equip:VLV-204",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:93e345e8-cc9a-43a9-9aba-1b7afca2ae75",
+      "target": "proc:SOP-VLV-204-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:93e345e8-cc9a-43a9-9aba-1b7afca2ae75",
+      "target": "docref:INSP-2026-01-20-004",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:93e345e8-cc9a-43a9-9aba-1b7afca2ae75",
+      "target": "equip:PMP-101",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 2
+      }
+    },
+    {
+      "source": "doc:bfc1abb1-30c7-4db1-9c5b-84085852b912",
+      "target": "equip:PMP-101",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:bfc1abb1-30c7-4db1-9c5b-84085852b912",
+      "target": "proc:SOP-PMP-101-MNT-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:bfc1abb1-30c7-4db1-9c5b-84085852b912",
+      "target": "docref:INSP-2026-03-14-001",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:bfc1abb1-30c7-4db1-9c5b-84085852b912",
+      "target": "equip:VLV-204",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 1
+      }
+    },
+    {
+      "source": "doc:fcc67606-b631-4a3a-be95-398734679820",
+      "target": "equip:BLR-102",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:fcc67606-b631-4a3a-be95-398734679820",
+      "target": "proc:SOP-BLR-102-VESSEL-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:718a6b24-4f7d-4894-9f23-a4acf789ec6e",
+      "target": "equip:BLR-102",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:718a6b24-4f7d-4894-9f23-a4acf789ec6e",
+      "target": "proc:SOP-BLR-102-VESSEL-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:49a21f9d-fd6c-475b-a9fe-cc22e1e23e05",
+      "target": "equip:BLR-102",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:49a21f9d-fd6c-475b-a9fe-cc22e1e23e05",
+      "target": "proc:SOP-BLR-102-VESSEL-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:afaaf316-590e-4770-bfd0-04147bae378e",
+      "target": "equip:BLR-103",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:afaaf316-590e-4770-bfd0-04147bae378e",
+      "target": "proc:SOP-BLR-103-VESSEL-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:36a8cc24-fe29-4b93-b5f2-489df1bbed02",
+      "target": "equip:BLR-103",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:36a8cc24-fe29-4b93-b5f2-489df1bbed02",
+      "target": "proc:SOP-BLR-103-VESSEL-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:e4a35d62-a0af-44be-9196-222bec9a86b0",
+      "target": "equip:BLR-103",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:e4a35d62-a0af-44be-9196-222bec9a86b0",
+      "target": "proc:SOP-BLR-103-VESSEL-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:d307723e-6ff5-4a02-9e92-fbbe8249eb17",
+      "target": "equip:BLR-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:d307723e-6ff5-4a02-9e92-fbbe8249eb17",
+      "target": "proc:SOP-BLR-105-VESSEL-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:e39e3ce0-a8e7-4ebf-bd49-e4c8d9d05dc6",
+      "target": "equip:BLR-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:e39e3ce0-a8e7-4ebf-bd49-e4c8d9d05dc6",
+      "target": "proc:SOP-BLR-105-VESSEL-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:c1a80868-86a9-4853-96a9-98b9a272050b",
+      "target": "equip:BLR-106",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:c1a80868-86a9-4853-96a9-98b9a272050b",
+      "target": "proc:SOP-BLR-106-VESSEL-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:c1e12a4e-fbbe-4744-a1c0-90cca6a0497f",
+      "target": "equip:BLR-106",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:c1e12a4e-fbbe-4744-a1c0-90cca6a0497f",
+      "target": "proc:SOP-BLR-106-VESSEL-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:060648a7-057b-4718-bb93-b6a2882e4d1a",
+      "target": "equip:BLR-106",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:060648a7-057b-4718-bb93-b6a2882e4d1a",
+      "target": "proc:SOP-BLR-106-VESSEL-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:26d5bd62-fab5-43b0-8b4c-fa0b40ec3bf3",
+      "target": "equip:CMP-103",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:26d5bd62-fab5-43b0-8b4c-fa0b40ec3bf3",
+      "target": "proc:SOP-CMP-103-MNT-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0dfb5984-102f-4fa5-884d-cd61f56748e0",
+      "target": "equip:CMP-103",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:0dfb5984-102f-4fa5-884d-cd61f56748e0",
+      "target": "proc:SOP-CMP-103-MNT-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:6ff733a3-9c3d-4d7b-acff-7ba31e631e76",
+      "target": "equip:CMP-104",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:6ff733a3-9c3d-4d7b-acff-7ba31e631e76",
+      "target": "proc:SOP-CMP-104-MNT-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:edc1b72c-3967-4cc6-987a-7fdba7f639f1",
+      "target": "equip:CMP-104",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:edc1b72c-3967-4cc6-987a-7fdba7f639f1",
+      "target": "proc:SOP-CMP-104-MNT-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:aaa54450-4772-451c-ac7e-d67df806bcd1",
+      "target": "equip:CMP-104",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:aaa54450-4772-451c-ac7e-d67df806bcd1",
+      "target": "proc:SOP-CMP-104-MNT-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:6ea34ecb-b7e0-48b3-abc8-4fbca4f46e1b",
+      "target": "equip:GEN-102",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:6ea34ecb-b7e0-48b3-abc8-4fbca4f46e1b",
+      "target": "proc:SOP-GEN-102-MNT-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:cc25896e-1c4e-497b-80c1-50b757cea7d7",
+      "target": "equip:GEN-102",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:cc25896e-1c4e-497b-80c1-50b757cea7d7",
+      "target": "proc:SOP-GEN-102-MNT-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:8b3d4e9e-c7a1-4df6-bbec-9f427c840d8a",
+      "target": "equip:GEN-104",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:8b3d4e9e-c7a1-4df6-bbec-9f427c840d8a",
+      "target": "proc:SOP-GEN-104-MNT-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:a831c700-1537-491f-a00b-366691e581a3",
+      "target": "equip:GEN-104",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:a831c700-1537-491f-a00b-366691e581a3",
+      "target": "proc:SOP-GEN-104-MNT-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:f36adff6-3125-4ed6-931b-8365dfc9405f",
+      "target": "equip:HTX-103",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:f36adff6-3125-4ed6-931b-8365dfc9405f",
+      "target": "proc:SOP-HTX-103-HTX-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:ae83a6b0-ba70-4c80-80ac-f301e35b2253",
+      "target": "equip:HTX-103",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:ae83a6b0-ba70-4c80-80ac-f301e35b2253",
+      "target": "proc:SOP-HTX-103-HTX-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:7f6b50ed-e62e-44ab-bf10-e99abe12670d",
+      "target": "equip:HTX-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:7f6b50ed-e62e-44ab-bf10-e99abe12670d",
+      "target": "proc:SOP-HTX-105-HTX-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:a5ccf24b-f278-46d3-b340-4b7cd5d9dd04",
+      "target": "equip:HTX-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:a5ccf24b-f278-46d3-b340-4b7cd5d9dd04",
+      "target": "proc:SOP-HTX-105-HTX-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0e86f4e7-28c5-45c6-9d75-bf2a5905edd0",
+      "target": "equip:HTX-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:0e86f4e7-28c5-45c6-9d75-bf2a5905edd0",
+      "target": "proc:SOP-HTX-105-HTX-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:64cfabdb-70c0-444e-8ffb-920d40c27bb8",
+      "target": "equip:HTX-108",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:64cfabdb-70c0-444e-8ffb-920d40c27bb8",
+      "target": "proc:SOP-HTX-108-HTX-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:f945ffb3-a254-4dd8-a37d-5fd3c6c8ead0",
+      "target": "equip:HTX-108",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:f945ffb3-a254-4dd8-a37d-5fd3c6c8ead0",
+      "target": "proc:SOP-HTX-108-HTX-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:f64bb387-1f6b-4eea-97d2-245d27ee6ea3",
+      "target": "equip:HTX-108",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:f64bb387-1f6b-4eea-97d2-245d27ee6ea3",
+      "target": "proc:SOP-HTX-108-HTX-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:e5415177-4620-490a-9406-dec498696e5e",
+      "target": "equip:HTX-111",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:e5415177-4620-490a-9406-dec498696e5e",
+      "target": "proc:SOP-HTX-111-HTX-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:24480714-bc9d-4c97-981f-4b34a7883673",
+      "target": "equip:HTX-111",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:24480714-bc9d-4c97-981f-4b34a7883673",
+      "target": "proc:SOP-HTX-111-HTX-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:05e94a0c-cf71-46a3-845b-97fb8d3b309f",
+      "target": "equip:HTX-112",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:05e94a0c-cf71-46a3-845b-97fb8d3b309f",
+      "target": "proc:SOP-HTX-112-HTX-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:048a7b81-845f-4bd0-a59f-66c4733ebf48",
+      "target": "equip:HTX-112",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:048a7b81-845f-4bd0-a59f-66c4733ebf48",
+      "target": "proc:SOP-HTX-112-HTX-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:c66d98ef-6480-49c8-996f-17b1dfa8de79",
+      "target": "equip:HTX-112",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:c66d98ef-6480-49c8-996f-17b1dfa8de79",
+      "target": "proc:SOP-HTX-112-HTX-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:88029b2c-ff6a-446e-89b9-0d1ae4b07ec2",
+      "target": "equip:HTX-114",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:88029b2c-ff6a-446e-89b9-0d1ae4b07ec2",
+      "target": "proc:SOP-HTX-114-HTX-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:3e533a33-45b2-4f85-94d4-dccd80038c36",
+      "target": "equip:HTX-114",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:3e533a33-45b2-4f85-94d4-dccd80038c36",
+      "target": "proc:SOP-HTX-114-HTX-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:6a28faf2-2e6e-42c3-bc44-02eb4f070a5e",
+      "target": "equip:HTX-114",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:6a28faf2-2e6e-42c3-bc44-02eb4f070a5e",
+      "target": "proc:SOP-HTX-114-HTX-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:52bd3ed6-6ee5-46a4-80ef-8f87831671c9",
+      "target": "equip:PMP-104",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:52bd3ed6-6ee5-46a4-80ef-8f87831671c9",
+      "target": "proc:SOP-PMP-104-MNT-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:8cbe1310-0fb2-44b2-96ac-c2a03f11293a",
+      "target": "equip:PMP-104",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:8cbe1310-0fb2-44b2-96ac-c2a03f11293a",
+      "target": "proc:SOP-PMP-104-MNT-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:3095d931-673d-4132-a8f3-301ec5e47a83",
+      "target": "equip:PMP-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:3095d931-673d-4132-a8f3-301ec5e47a83",
+      "target": "proc:SOP-PMP-105-MNT-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:a9bb374d-aa5a-47ce-a6c3-6a03af74b7a6",
+      "target": "equip:PMP-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:a9bb374d-aa5a-47ce-a6c3-6a03af74b7a6",
+      "target": "proc:SOP-PMP-105-MNT-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:58e4d794-e98b-47ec-aa92-16ac74d7d1ae",
+      "target": "equip:TNK-103",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:58e4d794-e98b-47ec-aa92-16ac74d7d1ae",
+      "target": "proc:SOP-TNK-103-VESSEL-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:110139ba-ca93-4e11-b245-16a4d0140767",
+      "target": "equip:TNK-103",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:110139ba-ca93-4e11-b245-16a4d0140767",
+      "target": "proc:SOP-TNK-103-VESSEL-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:a471bd70-b0b7-49d7-a7c8-1a02ffd3c671",
+      "target": "equip:TNK-103",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:a471bd70-b0b7-49d7-a7c8-1a02ffd3c671",
+      "target": "proc:SOP-TNK-103-VESSEL-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:fc07e77d-a675-4c75-8e43-c2d4528b2bcf",
+      "target": "equip:TNK-104",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:fc07e77d-a675-4c75-8e43-c2d4528b2bcf",
+      "target": "proc:SOP-TNK-104-VESSEL-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:e8258941-8262-490c-b036-4e45068eb3da",
+      "target": "equip:TNK-104",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:e8258941-8262-490c-b036-4e45068eb3da",
+      "target": "proc:SOP-TNK-104-VESSEL-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:7133c64b-df4a-415c-8f62-bc44dfce3404",
+      "target": "equip:VLV-101",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:7133c64b-df4a-415c-8f62-bc44dfce3404",
+      "target": "proc:SOP-VLV-101-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:f6be8340-0ed1-40ca-bcd0-7fc9684157a4",
+      "target": "equip:VLV-101",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:f6be8340-0ed1-40ca-bcd0-7fc9684157a4",
+      "target": "proc:SOP-VLV-101-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:66ba51ad-6ea0-4f92-bde5-5610d0c58a8d",
+      "target": "equip:VLV-101",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:66ba51ad-6ea0-4f92-bde5-5610d0c58a8d",
+      "target": "proc:SOP-VLV-101-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:685f64c4-d113-48ae-a9ab-929e34e4e0bf",
+      "target": "equip:VLV-102",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:685f64c4-d113-48ae-a9ab-929e34e4e0bf",
+      "target": "proc:SOP-VLV-102-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:13072489-c2e5-406b-ad1d-cc996f5db66a",
+      "target": "equip:VLV-102",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:13072489-c2e5-406b-ad1d-cc996f5db66a",
+      "target": "proc:SOP-VLV-102-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:6254ced3-c5fe-48e9-83a4-f12deea60087",
+      "target": "equip:VLV-102",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:6254ced3-c5fe-48e9-83a4-f12deea60087",
+      "target": "proc:SOP-VLV-102-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:15c6d2b7-ffac-4131-8836-70df9906a4aa",
+      "target": "equip:VLV-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:15c6d2b7-ffac-4131-8836-70df9906a4aa",
+      "target": "proc:SOP-VLV-105-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:817db6c2-e49a-4585-b721-2c0e37d127d2",
+      "target": "equip:VLV-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:817db6c2-e49a-4585-b721-2c0e37d127d2",
+      "target": "proc:SOP-VLV-105-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:8bf6257c-b51a-4142-ab29-cdfeacfd0f02",
+      "target": "equip:VLV-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:8bf6257c-b51a-4142-ab29-cdfeacfd0f02",
+      "target": "proc:SOP-VLV-105-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:76e42996-08ef-491a-a91b-45b7cad938c3",
+      "target": "equip:VLV-106",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:76e42996-08ef-491a-a91b-45b7cad938c3",
+      "target": "proc:SOP-VLV-106-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:f7fea874-cb81-4741-b919-c59b59b79165",
+      "target": "equip:VLV-106",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:f7fea874-cb81-4741-b919-c59b59b79165",
+      "target": "proc:SOP-VLV-106-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:e42a2dcf-5c6f-4888-b0a9-592f63b2bf81",
+      "target": "equip:VLV-109",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:e42a2dcf-5c6f-4888-b0a9-592f63b2bf81",
+      "target": "proc:SOP-VLV-109-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:3ff108b5-514a-4631-b705-a09ac855148f",
+      "target": "equip:VLV-109",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:3ff108b5-514a-4631-b705-a09ac855148f",
+      "target": "proc:SOP-VLV-109-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:80f16350-bbde-4156-acb2-61209f7f8ea6",
+      "target": "equip:VLV-110",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:80f16350-bbde-4156-acb2-61209f7f8ea6",
+      "target": "proc:SOP-VLV-110-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:a4e4eb05-db21-4037-a2d4-a697f8ca7420",
+      "target": "equip:VLV-110",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:a4e4eb05-db21-4037-a2d4-a697f8ca7420",
+      "target": "proc:SOP-VLV-110-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:dc72bec2-b1df-4d80-9ab8-d2ad449fff33",
+      "target": "equip:VLV-110",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:dc72bec2-b1df-4d80-9ab8-d2ad449fff33",
+      "target": "proc:SOP-VLV-110-INSP-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:546bccdb-b4ab-466c-9767-70447537a609",
+      "target": "equip:PMP-101",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:546bccdb-b4ab-466c-9767-70447537a609",
+      "target": "equip:VLV-204",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:546bccdb-b4ab-466c-9767-70447537a609",
+      "target": "docref:NM-2025-11-08-003",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:546bccdb-b4ab-466c-9767-70447537a609",
+      "target": "proc:SOP-PMP-101-MNT-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:9efdcf38-64a6-42a7-8d88-8ba3686b42a5",
+      "target": "equip:HTX-103",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:c9f93fee-7080-414b-8c33-091a75b7cf4c",
+      "target": "equip:HTX-111",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:420b9e42-d912-4f90-bb67-dfee5c0be49e",
+      "target": "equip:VLV-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:PMP-101",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 0
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:PMP-101",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-PMP-101-MNT-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-0142",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:VLV-204",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 1
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:VLV-204",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-0198",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-0233",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-0301",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:INSP-2026-03-14-001",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-0312",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:CMP-302",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 5
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:CMP-302",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2025-1187",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:INSP-2025-12-05-002",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2025-1201",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:TNK-07",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 7
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:TNK-07",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-0089",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:PMP-104",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 8
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:PMP-104",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3001",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3002",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-PMP-104-ROTATING",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3003",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:CMP-103",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 11
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:CMP-103",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3004",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3005",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-CMP-103-ROTATING",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3006",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:GEN-102",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 14
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:GEN-102",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3007",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3008",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-GEN-102-ROTATING",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3009",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3010",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:CMP-104",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 18
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:CMP-104",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3011",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3012",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3013",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-CMP-104-ROTATING",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3014",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:GEN-104",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 22
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:GEN-104",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3015",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3016",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-GEN-104-ROTATING",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3017",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3018",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:PMP-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 26
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:PMP-105",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3019",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3020",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-PMP-105-ROTATING",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3021",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:VLV-101",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 29
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:VLV-101",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3022",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3023",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3024",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-VLV-101-VALVE",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3025",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3026",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:VLV-102",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 34
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:VLV-102",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3027",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3028",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3029",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-VLV-102-VALVE",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3030",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:VLV-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 38
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:VLV-105",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3031",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3032",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3033",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-VLV-105-VALVE",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3034",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3035",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:VLV-106",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 43
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:VLV-106",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3036",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3037",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-VLV-106-VALVE",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3038",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:VLV-109",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 46
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:VLV-109",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3039",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3040",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-VLV-109-VALVE",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3041",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3042",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:VLV-110",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 50
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:VLV-110",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3043",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3044",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3045",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-VLV-110-VALVE",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3046",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3047",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:BLR-102",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 55
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:BLR-102",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3048",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3049",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3050",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-BLR-102-VESSEL",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3051",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3052",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:BLR-103",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 60
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:BLR-103",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3053",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3054",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3055",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-BLR-103-VESSEL",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3056",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:TNK-103",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 64
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:TNK-103",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3057",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3058",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3059",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-TNK-103-VESSEL",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3060",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:BLR-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 68
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:BLR-105",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3061",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3062",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-BLR-105-VESSEL",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3063",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3064",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:TNK-104",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 72
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:TNK-104",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3065",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3066",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-TNK-104-VESSEL",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3067",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3068",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:BLR-106",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 76
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:BLR-106",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3069",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3070",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3071",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-BLR-106-VESSEL",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3072",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:HTX-103",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 80
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:HTX-103",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3073",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3074",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-HTX-103-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3075",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:HTX-105",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 83
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:HTX-105",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3076",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3077",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3078",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-HTX-105-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3079",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3080",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:HTX-108",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 88
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:HTX-108",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3081",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3082",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3083",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-HTX-108-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3084",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:HTX-111",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 92
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:HTX-111",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3085",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3086",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-HTX-111-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3087",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:HTX-112",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 95
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:HTX-112",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3088",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3089",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3090",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-HTX-112-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3091",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:HTX-114",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS",
+        "chunk_index": 99
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "equip:HTX-114",
+      "rel_type": "PERFORMED_ON",
+      "attrs": {
+        "rel_type": "PERFORMED_ON"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3092",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3093",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3094",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "proc:SOP-HTX-114-",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3095",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    },
+    {
+      "source": "doc:0d8a21b4-aa72-490f-9777-b864ab9cdf30",
+      "target": "docref:WO-2026-3096",
+      "rel_type": "MENTIONS",
+      "attrs": {
+        "rel_type": "MENTIONS"
+      }
+    }
+  ]
+}
